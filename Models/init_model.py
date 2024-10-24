@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, classification_report
 import pandas as pd
-from tqdm import tqdm  # Import tqdm for progress bars
+from tqdm import tqdm
 
 # File paths to save/load preprocessed data
 preprocessed_data_path = '../Data/processed/'
