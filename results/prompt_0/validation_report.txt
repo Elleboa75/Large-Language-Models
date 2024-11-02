@@ -1,0 +1,12 @@
+Validation Accuracy: 0.7669
+Classification Report:
+              precision    recall  f1-score   support
+
+  antiracist       0.72      0.61      0.66      8463
+     neutral       0.78      0.79      0.78     15572
+      racist       0.79      0.86      0.82     10559
+
+    accuracy                           0.77     34594
+   macro avg       0.76      0.75      0.75     34594
+weighted avg       0.76      0.77      0.76     34594
+

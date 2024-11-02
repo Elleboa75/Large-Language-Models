@@ -1,0 +1,14 @@
+Ensemble Validation Accuracy: 0.8632
+Ensemble Classification Report:
+              precision    recall  f1-score   support
+
+  antiracist       0.85      0.76      0.80      8508
+     neutral       0.85      0.89      0.87     15517
+      racist       0.89      0.91      0.90     10569
+
+    accuracy                           0.86     34594
+   macro avg       0.86      0.85      0.86     34594
+weighted avg       0.86      0.86      0.86     34594
+
+Uncertainty for each prediction (as variance):
+[0.   0.   0.16 ... 0.   0.   0.24]
